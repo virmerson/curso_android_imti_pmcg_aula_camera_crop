@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraAPP</string>
+    <string name="alterar_imagem">Alterar Imagem</string>
+    <string name="registrar">Registrar</string>
+    <string name="email">E-mail:</string>
+    <string name="nome_usuario">Nome do Usuário:</string>
+    <string name="imagem_nao_carregada">Imagem Não Carregada!</string>
+</resources>
